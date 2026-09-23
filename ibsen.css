@@ -55,3 +55,15 @@ th {
     border: 2px solid black;
 }
 
+.navbar {
+    background-color: lightgray;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.navbar a {
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+}
+
