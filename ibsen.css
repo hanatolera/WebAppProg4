@@ -50,5 +50,8 @@ th {
     color: black;
 }
 
-
+.name:hover {
+    text-shadow: 2px 2px 5px gray;
+    border: 2px solid black;
+}
 
